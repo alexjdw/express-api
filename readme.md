@@ -20,4 +20,4 @@ localhost:8000/
 localhost:8000/remove/Steve
 ```
 
-The routes should be self-explainatory once you see the json output. If you try to add a duplicate name or the query errors out, you'll get an error message. That's it!
+The routes should be self-explanatory once you see the json output. If you try to add a duplicate name or the query errors out, you'll get an error message. That's it!
