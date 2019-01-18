@@ -16,7 +16,8 @@ localhost:8000/
 localhost:8000/new/Joe
 localhost:8000/new/Steve
 localhost:8000/
+
 localhost:8000/remove/Steve
 ```
 
-If you try to add a duplicate name or the query errors out, you'll get an error message.
+The routes should be self-explainatory once you see the json output. If you try to add a duplicate name or the query errors out, you'll get an error message. That's it!
