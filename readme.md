@@ -1,5 +1,5 @@
 # Express API
-This is the bare minimum API that's possible in express. For ease of use, all API routes are exposed as GET requests and only one piece of data is available per record.
+This is just about the bare minimum API that's possible, running on Express. For ease of use, all API routes are exposed as GET requests and only one piece of data is available per record.
 
 ## Usage
 * `npm install` the required packages from the package-lock
